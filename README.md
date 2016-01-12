@@ -110,6 +110,11 @@ If you change the parent group while the sub-group and/or its child markers are 
 
 Make sure the sub-group and its child layers are removed from map before changing the parent group, or use the `setParentGroupSafe` method instead.
 
+### Contributing
+1. [Install node](http://nodejs.org/#download).
+2. Clone this repository `$ git clone https://github.com/jes5e/Leaflet.FeatureGroup.SubGroup.git`.
+3. Install dependencies `$ npm install`.
+4. Run build `$ jake`.
 
 
 ## License
