@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-featureGroup-subgroup",
+  "name": "leaflet-featuregroup-subgroup",
   "homepage": "https://github.com/jes5e/Leaflet.FeatureGroup.SubGroup",
   "description": "Creates a Leaflet Feature Group that adds its child layers into a parent group when added to a map (e.g. through L.Control.Layers).",
   "main": ["leaflet.featuregroup.subgroup-src.js", "leaflet.featuregroup.subgroup.js"],
